@@ -14,3 +14,14 @@ body {
         align-items: center;
      
 }
+
+@media (max-width: 576px){
+    body {
+    background-image: url(img/fondo01.jpg);
+    
+    background-repeat: no-repeat;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+        
+    }
+}
